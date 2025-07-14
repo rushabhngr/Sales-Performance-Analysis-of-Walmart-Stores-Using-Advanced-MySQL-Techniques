@@ -1,2 +1,8 @@
-# Sales-Performance-Analysis-of-Walmart-Stores-Using-Advanced-MySQL-Techniques
-Walmart wants to optimize its sales strategies by analyzing historical transaction data across branches, customer types, payment methods, and product lines. To achieve this, advanced MySQL queries will be employed to answer challenging business questions related to sales performance, customer segmentation, and product trends.
+Analyzed sales growth, customer segmentation, and product
+performance using advanced MySQL queries. I identified top-
+performing branches, profitable product lines, and anomalies in
+sales transactions to improve strategies. I segmented customers
+into spending tiers, identified repeat buyers, and analyzed
+payment preferences by city. I delivered actionable insights
+through SQL-driven analysis, enhancing decision-making with
+clear visualizations and reports.
