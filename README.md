@@ -59,29 +59,7 @@ The project addresses the following business objectives:
 
 ---
 
-## 6. Approach  
-1. **Data Cleaning & Preparation**  
-   - Loaded Walmart dataset into MySQL.  
-   - Checked for missing values and inconsistencies.  
-   - Ensured proper data types for numerical and date columns.  
-
-2. **Exploratory SQL Queries**  
-   - Basic descriptive analysis of branches, customers, and sales figures.  
-
-3. **Advanced Analysis**  
-   - Growth rate calculation for branch-level performance.  
-   - Profitability analysis by product line.  
-   - Segmentation of customers into tiers based on spending.  
-   - Anomaly detection using statistical thresholds.  
-   - Gender, payment method, and customer type insights.  
-
-4. **Reporting & Insights**  
-   - Summarized findings into actionable insights.  
-   - Supplemented SQL results with tables and visualizations.  
-
----
-
-## 7. Key Outcomes  
+## 6. Key Outcomes  
 - Identified the **top-performing branch** in terms of sales growth.  
 - Highlighted **most profitable product lines** across branches.  
 - Segmented customers into spending tiers, enabling targeted strategies.  
@@ -92,7 +70,7 @@ The project addresses the following business objectives:
 
 ---
 
-## 8. Impact  
+## 7. Impact  
 This analysis provides Walmart with actionable insights to:  
 - Optimize **branch-level operations and resource allocation**.  
 - Improve **marketing strategies** based on payment and product preferences.  
